@@ -3589,3 +3589,4 @@ location_id,location_name,parameter,value,unit,datetimeUtc,datetimeLocal,timezon
 2860223,"GK1 (Oberoi Terrace)","um003",49127.2068452381,"particles/cm³","2025-12-01T22:00:00Z","2025-12-02T03:30:00+05:30","Asia/Kolkata",28.5500047,77.2431058,,,,"Unknown Person","AirGradient"
 2860223,"GK1 (Oberoi Terrace)","um003",49125.32142857142,"particles/cm³","2025-12-01T23:00:00Z","2025-12-02T04:30:00+05:30","Asia/Kolkata",28.5500047,77.2431058,,,,"Unknown Person","AirGradient"
 2860223,"GK1 (Oberoi Terrace)","um003",46940.5818452381,"particles/cm³","2025-12-02T00:00:00Z","2025-12-02T05:30:00+05:30","Asia/Kolkata",28.5500047,77.2431058,,,,"Unknown Person","AirGradient"
+
