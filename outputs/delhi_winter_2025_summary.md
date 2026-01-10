@@ -50,3 +50,9 @@ This dataset will be overlaid with:
 - Festival and traffic shocks
 
 to evaluate whether any policy interventions produced measurable relief in PM2.5 levels.
+## Policy response versus pollution
+
+![Delhi winter PM2.5 with GRAP](delhi_winter_pm25_with_grap.png)
+
+Despite escalation from GRAP Stage I to Stage IV through November 2025, Delhi’s PM2.5 remained in the severe range and peaked after the highest emergency stage was activated. This suggests that winter air pollution is driven by structural sources and meteorology that short-term regulatory controls do not adequately suppress.
+
