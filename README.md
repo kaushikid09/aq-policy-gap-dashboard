@@ -1,27 +1,14 @@
 # Air Quality → Policy Gap Dashboard
+## What this project does
 
-This project links air quality monitoring data (PM2.5, PM10) with environmental policy interventions in India to assess whether policies are producing measurable changes in pollution.
+This repository builds a city-level winter air quality index for Delhi using CPCB reference monitors via OpenAQ and compares it against India’s emergency pollution policies (GRAP).
 
-The goal is not to “prove” causality, but to provide decision-makers with structured evidence on:
-- When interventions happened
-- What pollution levels did before and after
-- Where policy gaps may exist
+It shows whether short-term regulatory actions actually reduce population exposure during Delhi’s worst smog season.
 
-## Why this matters
+## What’s inside
 
-India has hundreds of air quality monitoring stations and dozens of pollution control measures (GRAP, crop burning restrictions, clean cooking schemes, etc.), but these are rarely analysed together.
-
-This project turns raw monitoring into **policy-usable intelligence**.
-
-## What this will include
-
-- Daily PM2.5 and PM10 trends from OpenAQ
-- Crop burning proxies from NASA FIRMS
-- Government intervention timelines (GRAP, directives, bans)
-- Before/after and time-series analysis
-- A public dashboard for policymakers and researchers
-
-## Status
-
-This repository is under active development.
+- `data/raw/` — Hourly PM2.5 from four CPCB stations (Aya Nagar, Anand Lok, Greater Kailash, Vasundhara)
+- `data/processed/` — Daily Delhi-level PM2.5 index (Nov 2025)
+- `policy/` — GRAP stages and regulatory actions
+- `outputs/` — Policy summaries and charts showing the policy gap
 
